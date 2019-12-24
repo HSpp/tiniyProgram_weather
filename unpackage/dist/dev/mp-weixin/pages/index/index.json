@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "modal-tip": "/pages/index/modal"
+  }
+}

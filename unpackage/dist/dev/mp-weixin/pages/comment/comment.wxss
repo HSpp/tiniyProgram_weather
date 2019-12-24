@@ -1,0 +1,31 @@
+.cu-bar .action.line-title:first-child {
+  margin-left: 60rpx;
+}
+.menu-avatar {
+  padding-bottom: 55px;
+}
+.text-content {
+  position: relative;
+  max-height: 80px;
+  line-height: 20px;
+  overflow: hidden;
+}
+.text-content .allCommet {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 50%;
+}
+.line-title {
+  position: relative;
+}
+.line-title:before {
+  content: '';
+  position: absolute;
+  width: 3px;
+  height: 100%;
+  left: -30rpx;
+  top: 0;
+  background: #0081ff;
+}
+

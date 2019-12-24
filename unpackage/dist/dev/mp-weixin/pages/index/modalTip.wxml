@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['hideModal',['$event']]]]]}}" class="{{['cu-modal',modalName=='DialogModal1'?'show':'']}}" bindtap="__e"><view class="cu-dialog" style="width:270px;"><view class="cu-bar bg-white justify-center"><view class="text-center text-blue text-bold">{{tipContent}}</view></view></view></view>
